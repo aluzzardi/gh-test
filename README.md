@@ -1,3 +1,3 @@
 # GH Integration Test Repository
 
-Testing a pull request **FROM PR2**
+Testing a pull request **FROM FORK**
